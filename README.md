@@ -13,9 +13,9 @@ ChatTriggers tutorials is a way for us to create and share video and text tutori
 # Contributing
 This section will become a lot more structured and strict as we figure things out.
 
-- Select the appropriate folder for your tutorial
-- Create a folder with your username
-- Create another folder with the tutorial name (its useful to number the tutorials if they are part of a series)
+- Create or enter the folder names "video" or "text" (whichever one is appropriate for your tutorial)
+- Create or enter a folder with your username
+- Create a new folder with the tutorial name (its useful to number the tutorials if they are part of a series)
 - Create a README.md file
 
 # Restrictions
