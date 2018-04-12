@@ -32,6 +32,8 @@ This section will become a lot more structured and strict as we figure things ou
 # Description
 A short description
 ```
+- Optionally but recommended
+  - Create a folder named "code" inside of your tutorial folder for any code
 
 ## Text Tutorials
 - Use markdown to make everything look nice
