@@ -49,3 +49,5 @@ Ultimately it is up to us if a tutorial reaches our standards. We can and will r
 - If the tutorial is vague, hard to follow, or misleading
 
 If we make changes to ChatTriggers that make a tutorial out of date, we will add a note at the top of the README.md and eventually remove it if it does not get updated.
+
+  
